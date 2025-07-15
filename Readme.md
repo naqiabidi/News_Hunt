@@ -36,7 +36,6 @@ News Hunt is a dynamic news-fetching web application built with React.js that al
    ```
    http://localhost:3000
    ```
-```
 
 ## Deployment
 To deploy the project using Vercel or Netlify:
